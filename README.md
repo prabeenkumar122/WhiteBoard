@@ -1,2 +1,2 @@
 # WhiteBoard
-White board is a virtual class room
+White board is a virtual class room.
